@@ -1,0 +1,3 @@
+[submodule "AtCoderScraper"]
+	path = AtCoderScraper
+	url = git@github.com:NULLCT/AtCoderScraper.git
